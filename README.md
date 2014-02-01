@@ -1,4 +1,6 @@
-managed
-=======
+managed-ws
+==========
 
-eventually a management daemon for a managed services cloud
+eventually a standalone management daemon for a managed services cloud
+
+at the moment it is a PHP webservice
